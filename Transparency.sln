@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transparency", "Transparency.csproj", "{BDF892D8-8100-4E5D-8275-7A19F19A3CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF892D8-8100-4E5D-8275-7A19F19A3CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF892D8-8100-4E5D-8275-7A19F19A3CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF892D8-8100-4E5D-8275-7A19F19A3CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF892D8-8100-4E5D-8275-7A19F19A3CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE809C9-F5B8-42B9-B944-F85557B3DE59}
+	EndGlobalSection
+EndGlobal
