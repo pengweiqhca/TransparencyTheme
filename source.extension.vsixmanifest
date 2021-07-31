@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="TransparencyTheme.6cc8de5b-2a5e-4c9d-9bd2-98b77783b6c2" Version="1.0" Language="en-US" Publisher="彭伟" />
+    <Identity Id="TransparencyTheme.6cc8de5b-2a5e-4c9d-9bd2-98b77783b6c2" Version="1.1" Language="en-US" Publisher="彭伟" />
     <DisplayName>Transparency Theme</DisplayName>
     <Description xml:space="preserve">Visual studio transparency theme, suggest install ClaudiaIDE and set 'Expand to IDE' as true.</Description>
     <MoreInfo>https://github.com/pengweiqhca/TransparencyTheme</MoreInfo>
+    <Icon>icon.png</Icon>
     <PreviewImage>transparency.png</PreviewImage>
     <Tags>theme, transparency</Tags>
   </Metadata>
