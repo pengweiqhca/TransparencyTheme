@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Id="TransparencyTheme.b282010e-8d58-48d1-81f8-02f718159dd2" Version="1.1" Language="en-US" Publisher="彭伟" />
     <DisplayName>Transparency Theme With Resharper</DisplayName>
-    <Description xml:space="preserve">Visual studio dark transparency theme, `Solution Explorer` is transparent. If not install Resharper, completion DropDownList is transparent and badly experience. install ClaudiaIDE is needed and set 'Expand to IDE' as true.</Description>
+    <Description xml:space="preserve">Visual studio dark transparency theme, `Solution Explorer` is transparent. If not install Resharper, completion DropDownList is transparent and badly experience. Install ClaudiaIDE is needed and set 'Expand to IDE' as true.</Description>
     <MoreInfo>https://github.com/pengweiqhca/TransparencyTheme</MoreInfo>
     <Icon>icon.png</Icon>
     <PreviewImage>transparency.png</PreviewImage>
