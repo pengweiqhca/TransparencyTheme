@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="TransparencyTheme.6cc8de5b-2a5e-4c9d-9bd2-98b77783b6c2" Version="1.1" Language="en-US" Publisher="彭伟" />
-    <DisplayName>Transparency Theme</DisplayName>
-    <Description xml:space="preserve">Visual studio dark transparency theme, suggest install ClaudiaIDE and set 'Expand to IDE' as true.</Description>
+    <Identity Id="TransparencyTheme.b282010e-8d58-48d1-81f8-02f718159dd2" Version="1.1" Language="en-US" Publisher="彭伟" />
+    <DisplayName>Transparency Theme With Resharper</DisplayName>
+    <Description xml:space="preserve">Visual studio dark transparency theme, `Solution Explorer` is transparent. If not install Resharper, completion DropDownList is transparent and badly experience
+ (if not install Resharper, please install https://marketplace.visualstudio.com/items?itemName=pengweiqhca.transparency). install ClaudiaIDE is needed and set 'Expand to IDE' as true.</Description>
     <MoreInfo>https://github.com/pengweiqhca/TransparencyTheme</MoreInfo>
     <Icon>icon.png</Icon>
     <PreviewImage>transparency.png</PreviewImage>
